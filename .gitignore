@@ -1,6 +1,6 @@
 runtime/pisa
 .metadata
-gen/*
+gen/
 *.class
 bin/*
 .vscode/
